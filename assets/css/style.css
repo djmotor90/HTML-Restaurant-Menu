@@ -92,3 +92,8 @@ th {
     padding: 2px;
     text-align: center;
   }
+  footer {
+    background-color: beige;
+    color: #fff;
+    padding: 20px;
+  }
