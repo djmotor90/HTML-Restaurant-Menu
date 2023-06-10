@@ -97,3 +97,8 @@ th {
     color: #fff;
     padding: 20px;
   }
+
+  nav a.active {
+    color: darkred;
+    font-weight: bold;
+  }
